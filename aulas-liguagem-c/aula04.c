@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main() {
+void aula04() {
+	printf("Iniciando Programa aula04\n");
+	
 	int idade;
 	int anoatual;
 	int anonascimento;
@@ -17,5 +19,4 @@ int main() {
 	printf("Oi, Voce nasceu em %d e possui %d anos \n", anonascimento, idade);
 	
 	system("PAUSE");
-	return 0;
 }
