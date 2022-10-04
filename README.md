@@ -1,2 +1,3 @@
 # linguagem-c
-Aulas de Linguagem C mentorado por Lúcio 
+
+Aulas de Linguagem C mentorado por Lúcio Luzetti Criado
